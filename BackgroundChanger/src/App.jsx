@@ -22,7 +22,9 @@ function App() {
           <button onClick={()=>setColor("olive")} className='text-white rounded-full p-2 m-2'
         style={{backgroundColor:"Olive"}}>Olive</button>
           <button onClick={()=>setColor("purple")} className='text-white rounded-full p-2 m-2'
-        style={{backgroundColor:"purple"}}>Purple</button>    
+        style={{backgroundColor:"purple"}}>Purple</button>  
+        <button onClick={()=>setColor("yellow")} className='text-white rounded-full p-2 m-2'
+        style={{backgroundColor:"yellow"}}>Yellow</button>    
       </div>
      </div>
     </div>
